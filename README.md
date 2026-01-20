@@ -51,7 +51,7 @@
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kimyourang&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimyourang&theme=react-dark&area=true&hide_border=true)
 
 ---
 
